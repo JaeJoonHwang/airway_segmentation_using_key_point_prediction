@@ -1,0 +1,8 @@
+%%% resume %%%
+code for coordinate determination: sagittal_coordinate_determination_GIT.m
+main file: Deep_learning_GIT.m
+functions for main file
+ - Maxobject.m
+ - OneLineMIP.m
+ - ImageRegressionAugmentationPipelineJJ.m
+Trained network: airwayNet.mat
